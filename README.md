@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="#" target="_blank">
-      <img src="#" alt="Project Banner">
+      <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/daf9e91b-6342-4e9a-9361-8dc2bd01ce64" alt="Project Banner">
     </a>
   <br />
 
@@ -14,6 +14,10 @@
   </div>
 
   <h3 align="center">An AI SaaS Platform</h3>
+
+   <div align="center">
+     Build this project step by step with our detailed tutorial on <a href="#" target="_blank"><b>@ksunny_1110</b></a> YouTube. Join the JSM family!
+    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -25,21 +29,6 @@
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
-
-## 🚨 Tutorial
-
-
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-
-## <a name="introduction">🤖 Introduction</a>
-
-Build an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. This project can be a guide for your next AI image tool and a boost to your portfolio. 
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
-
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -2518,5 +2507,25 @@ export default Profile;
 
 Public Assets used in the project can be found [here](https://drive.google.com/file/d/1uv1zyCjbYBQE9qnwh2snwO0NBgoop5gz/view?usp=sharing)
 
+## <a name="more">🚀 More</a>
+
+**Advance your skills with Next.js 14 Pro Course**
+
+Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+
+<a href="#" target="_blank">
+<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
+</a>
+
+<br />
+<br />
+
+**Accelerate your professional journey with the Expert Training program**
+
+And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
+
+<a href="#" target="_blank">
+<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
+</a>
 
 #
