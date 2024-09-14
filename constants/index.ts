@@ -29,11 +29,7 @@ export const navLinks = [
     route: "/transformations/add/removeBackground",
     icon: "/assets/icons/camera.svg",
   },
-  {
-    label: "Realtime-Image",
-    route: "/Realtime",
-    icon: "/assets/icons/camera.svg",
-  },
+  
  
  
   {
