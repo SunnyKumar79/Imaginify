@@ -31,9 +31,9 @@ export const navLinks = [
   },
   
   {
-    label: "Profilesss",
+    label: "RealTime-Image",
     route: "/realtime",
-    icon: "/assets/icons/profile.svg",
+    icon: "/assets/icons/realtime.svg",
   },
  
   {
